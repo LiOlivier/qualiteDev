@@ -1,6 +1,6 @@
 # qualiteDev
 
-#EXERCICE 3 
+# EXERCICE 3 
 
 Pour répondre à l'exercice 3, 
 
